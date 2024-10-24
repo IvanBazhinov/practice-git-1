@@ -5,3 +5,4 @@ Moscow is the capital of Russia
 Paris is the capital of France
 =======
 >>>>>>> parent of 768c749 (Capital's added)
+Berlin is the capital of Germany
